@@ -10,4 +10,9 @@ body {
   }
   .FirstClass{
     font-family: "Brush Script MT";
+    background-color: red;
+  }
+  .Boba{
+    background-color: rgba(0, 204, 255, 0.653);
+
   }
